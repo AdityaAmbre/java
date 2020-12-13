@@ -26,4 +26,16 @@ Topics Covered:
 20. Garbage Collection
 21. Local Date & Time
 
-NOTE: A few implemented Methods maybe deprecated after Java-9 version.
+### NOTE
+
+A few implemented Methods maybe deprecated after Java-9 version.
+
+## Authors
+
+- [**Aditya Ambre**](https://github.com/AdityaAmbre)
+
+## License
+
+This project is licensed under the Apache-2.0 License - see the [LICENSE.md](LICENSE.md) file for details.
+
+Copyrights © - 2020 Aditya Ambre. │ All Rights Reserved.
