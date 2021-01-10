@@ -36,6 +36,6 @@ JDBC Driver - The JDBC Driver for MySQL with class name 'com.mysql.cj.jdbc.Drive
 
 ## License
 
-This project is licensed under the Apache-2.0 License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License - see the [LICENSE.md](https://github.com/AdityaAmbre/java/blob/master/LICENSE) file for details.
 
 Copyrights © - 2021 Aditya Ambre. │ All Rights Reserved.

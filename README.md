@@ -1,4 +1,4 @@
-﻿# JAVA Codes.
+﻿# Java Codes.
 
 This repository contains all of my projects developed using JAVA.
 
